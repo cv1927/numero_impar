@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  numero_impares_par:
+    image: node
+    build: .
+    restart: always
+    volumes:
+      - .:/app
+    ports:
+      - 3000:3000
