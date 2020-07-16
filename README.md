@@ -6,7 +6,6 @@ Juan Camilo Verganzo
 
 In the project directory execute **npm i or npm install** this will install the project dependencies.
 
-
 ## Proyect Developed in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
